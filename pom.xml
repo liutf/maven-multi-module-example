@@ -8,5 +8,7 @@
     <modules>
         <module>core</module>
         <module>app</module>
+        <module>domain</module>
     </modules>
+
 </project>
